@@ -21,15 +21,12 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - javaScript
 
 ### Continued development
 
 I Still need a lot to improve my CSS skills before moving on to the frameworks
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
